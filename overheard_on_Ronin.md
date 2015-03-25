@@ -1,4 +1,4 @@
-# Overhead on Ronin:
+###Overhead on Ronin:###
 The session involved lots of giggling and lots of Googling!
 Remember to check your ham for viruses.
 My beautiful digital cohort.
@@ -8,3 +8,4 @@ Rules are there to be bent, or straightened in our case.
 Are you still enjoying this week or have you all completely lost your marbles?
 …the ROFLMAO approach to testing.
 When my resources are running low, I activate the extra fusion core and generate some more!
+I _am_ IRB.
