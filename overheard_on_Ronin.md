@@ -26,3 +26,4 @@ KitKat time!
 
 I solved the problem using thought-stuff!
 
+“I’m in a ranty mood!” “Is that similar to a moody rant? Is that dependency inversion?”
