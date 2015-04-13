@@ -29,3 +29,5 @@ I solved the problem using thought-stuff!
 “I’m in a ranty mood!” “Is that similar to a moody rant? Is that dependency inversion?”
 
 Oh no! I can’t stop the Star Wars!
+
+Let’s display a flash message at the top of the page which notifies the loser…err…*user* of the error.
