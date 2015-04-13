@@ -35,3 +35,5 @@ Let’s display a flash message at the top of the page which notifies the loser�
 I’m excited! [said in a very apathetic tone].
 
 JavaB, JavaC, PoshRuby, GingerCucumber & BabySinatra – ‘JavaBuzz – the Spicy Remix’.
+
+These are like actual pills: small and hard to swallow!
