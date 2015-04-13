@@ -32,6 +32,6 @@ Oh no! I can’t stop the Star Wars!
 
 Let’s display a flash message at the top of the page which notifies the loser…err…*user* of the error.
 
-I’m excited!
+I’m excited! [said in a very apathetic tone].
 
 JavaB, PoshRuby, GingerCucumber & BabySinatra – ‘JavaBuzz – the Spicy Remix’.
