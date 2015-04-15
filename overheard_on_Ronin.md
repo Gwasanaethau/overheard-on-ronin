@@ -41,3 +41,9 @@ These are like actual pills: small and hard to swallow!
 I just danced on my keyboard!
 
 I’ll refactor that into something that makes sense in a moment.
+
+You should be able to fit a head in there; you might be able to fit a body too!
+
+“You can do this in Excel, can’t you?” “Yes…yes you can…”
+
+I’m having an Ajax-free evening!
