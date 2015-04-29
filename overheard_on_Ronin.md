@@ -49,3 +49,9 @@ You should be able to fit a head in there; you might be able to fit a body too!
 I’m having an Ajax-free evening!
 
 Stop being helpful!
+
+Flex those memories!
+
+Yey! Our tests are broken!
+
+The ugly RSpec is live!
