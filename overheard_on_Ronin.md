@@ -54,4 +54,6 @@ Flex those memories!
 
 Yey! Our tests are broken!
 
-The ugly RSpec is live!
+The ugly-RSpec is live!
+
+This Bakers Academy thing is fantastic!
