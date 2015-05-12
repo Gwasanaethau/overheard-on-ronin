@@ -73,3 +73,5 @@ Have you fixed your loofah problem?
 Shoooow us your cooooooode!
 
 Can anyone hear me?
+
+“Are they still broken?” “No, we haven’t fixed them yet!”
