@@ -75,3 +75,9 @@ Shoooow us your cooooooode!
 Can anyone hear me?
 
 “Are they still broken?” “No, we haven’t fixed them yet!”
+
+Dosh garnet!
+
+Get fitch!
+
+Opions rapidly become highly opinionated.
