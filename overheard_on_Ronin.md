@@ -1,4 +1,4 @@
-###Overhead on Ronin:###
+###Overheard on Ronin:###
 
 The session involved lots of giggling and lots of Googling!
 
@@ -80,7 +80,7 @@ Dosh garnet!
 
 Get fitch!
 
-Opions rapidly become highly opinionated.
+Opinions rapidly become highly opinionated.
 
 Can you show me your rear-end, please?
 
